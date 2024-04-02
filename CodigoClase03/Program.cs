@@ -1,10 +1,5 @@
-﻿// See https://aka.ms/new-console-template for more information
-
-
-//i=contador
+﻿//i=contador
 //i<5
-
-using static System.Runtime.InteropServices.JavaScript.JSType;
 
 for (int i = 0; i < 5; i++)
 {
@@ -151,19 +146,5 @@ for (int i = 1; i <= numero; i++)
 
 Console.WriteLine("El resultado del factorial es:");
 Console.WriteLine(factorial);
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 Console.Read();
